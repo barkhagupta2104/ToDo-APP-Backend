@@ -1,0 +1,5 @@
+    # Set to normalize line endings for all files
+* text=auto
+
+# Specify specific files or patterns
+*.js text eol=lf
